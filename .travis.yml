@@ -10,6 +10,7 @@ git:
 script:
   - yarn build
 notifications:
+  slack: john-wqq3500:fr6xRhzj8SD53sg6A8HuzyIy
   email:
     recipients:
     - john.davis.2015.03@gmail.com
